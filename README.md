@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # SIMPA App Interfaces Design
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Prottotipo_Simpa
+>>>>>>> 80987cb7c5972836473fd9a66fc0638e9f24268d
