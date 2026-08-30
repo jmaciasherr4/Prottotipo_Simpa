@@ -1,22 +1,61 @@
-## 🔗 Demo en vivo
+## 🔗 Prototipos en vivo
 
-Prueba el prototipo funcionando aquí: https://prototipo-simpa.netlify.app/
+### 🟢 Prototipo anterior
+
+Prueba la versión anterior del prototipo funcionando aquí:
+
+https://prototipo-simpa.netlify.app/
 
 **Cuentas de prueba:**
-| Usuario | Contraseña | Rol |
-|---|---|---|
-| admin | admin123 | Administrador |
-| supervisor | super123 | Supervisor |
-| operario | oper123 | Operario |
+
+| Usuario      | Contraseña | Rol           |
+| ------------ | ---------- | ------------- |
+| `admin`      | `admin123` | Administrador |
+| `supervisor` | `super123` | Supervisor    |
+| `operario`   | `oper123`  | Operario      |
 
 ---
 
-# SIMPA App Interfaces Design
+### 🆕 Prototipo actualizado — V2
 
-This is a code bundle for SIMPA App Interfaces Design. The original project is available at https://www.figma.com/design/...
+> **Nueva versión del prototipo:** esta versión incorpora las últimas mejoras, correcciones y ajustes realizados al sistema SIMPA.
 
-## Running the code
+🚀 **Prueba el nuevo prototipo aquí:**
 
-Run `npm i` to install the dependencies.
+https://prototipo-simpa-v2.netlify.app/
 
-Run `npm run dev` to start the development server.
+**Cuentas de prueba:**
+
+| Usuario      | Contraseña | Rol           |
+| ------------ | ---------- | ------------- |
+| `admin`      | `admin123` | Administrador |
+| `supervisor` | `super123` | Supervisor    |
+| `operario`   | `oper123`  | Operario      |
+
+**Estado:** ✅ Versión actual / recomendada para demostración.
+
+---
+
+## 🎨 SIMPA App Interfaces Design
+
+This is a code bundle for SIMPA App Interfaces Design.
+
+The original project is available at:
+
+https://www.figma.com/design/...
+
+### ▶️ Running the code
+
+Install the project dependencies:
+
+```bash
+npm i
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The application will then be available through the local development URL shown in the terminal.
