@@ -6,6 +6,7 @@ Sistema Inteligente de Mantenimiento de Palma Africana.
 
 ### Demo en vivo
 https://simpav2-prototipo.netlify.app/
+
 **Cuentas de prueba:**
 
 | Usuario | Contraseña | Rol |
