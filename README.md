@@ -22,7 +22,7 @@ https://prototipo-simpa.netlify.app/
 
 🚀 **Prueba el nuevo prototipo aquí:**
 
-https://simpav2-prototipo.netlify.app/
+https://prototipov2-correcion.netlify.app/
 
 **Cuentas de prueba:**
 
